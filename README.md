@@ -1,4 +1,4 @@
-# Horizon
+# Horizon - [Jogue já](https://techplays.github.io/horizon/index.html)
 
 ## Controlos 
 - WASD / Setas - Movimento
